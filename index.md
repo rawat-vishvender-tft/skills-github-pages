@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Learning github pages
 ---
 
 + World Cup 2014
